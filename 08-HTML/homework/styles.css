@@ -1,0 +1,42 @@
+
+h1 {
+    color: blue;
+  font-size: 10px;
+ }
+h2 {
+    color: blue;
+  font-size: 20px;
+}
+h4 {
+    color: blue;
+  font-size: 30px;
+}
+p {
+  color: blue;
+  font-size: 20px;
+}
+a{
+    color: blue;
+    font-style: 15;
+    
+}
+img{
+    width: 400px
+}
+#thirdDiv{
+    color: rgb(255, 251, 0);
+    height: 600px;
+    padding: 50px;
+    border-color: red black;
+    border-width: 10px;
+    border-style: solid;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+    
+}
+#spanId{
+    font-size: 18px;
+    margin: 50;
+    
+}
