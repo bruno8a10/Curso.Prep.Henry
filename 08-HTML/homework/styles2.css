@@ -1,4 +1,15 @@
+div{
 
+  color: rgb(0, 0, 0);
+    height: 150px;
+    padding: 30px;
+    border-color: red black;
+    border-width: 5px;
+    border-style: solid;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+ 
 h1 {
     color: blue;
   font-size: 10px;
@@ -8,12 +19,14 @@ h2 {
   font-size: 20px;
 }
 h4 {
-    color: blue;
+    color: rgb(0, 0, 0);
   font-size: 30px;
+  align-items: center;
+  text-align: center;
 }
 p {
-  color: blue;
-  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-size: 10px;
 }
 a{
     color: blue;
@@ -36,4 +49,11 @@ img{
 #spanId{
     font-size: 18px;
     margin: 50;   
+}
+
+#ejerciciotres{
+  display: block;
+  position: absolute;
+  top: 100;
+  left: 200;
 }
